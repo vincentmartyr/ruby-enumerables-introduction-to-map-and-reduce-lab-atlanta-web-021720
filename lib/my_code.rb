@@ -10,4 +10,3 @@ end
 def map_to_double(source_array)
   source_array.map { |e| e*2 }
 end
-
